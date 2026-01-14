@@ -37,11 +37,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Udit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Udit&show_icons=true)
-
----
-
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/udit-chauhan-24b968356/
 - 🌍 Portfolio: https://mr-udit.github.io
