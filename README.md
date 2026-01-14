@@ -38,5 +38,5 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/udit-chauhan-24b968356/
+- 💼 LinkedIn:  https://www.linkedin.com/in/mr-udit-chauhan5643/
 - 🌍 Portfolio: https://mr-udit.github.io
